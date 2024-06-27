@@ -1,0 +1,7 @@
+# 로그 파일과 외부 패키지들이 설치되는 폴더를 깃으로 관리하지 않겠다고 지정
+# Logs
+logs
+*.log
+mpm-debug.log*
+# Dependency directories
+node_modules/
